@@ -1,0 +1,33 @@
+{
+    "name": "compactmachines3:wallbreakable",
+    "pattern": [
+      [
+        "",
+        "",
+        "@@a@@",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "@@b@@",
+        "",
+        ""
+      ],
+      [],
+      [],
+      []
+    ],
+    "catalyst": "minecraft:redstone",
+    "key": {
+      "a": {
+        "value": "minecraft:iron_block",
+        "count": 1
+      },
+      "b": {
+        "value":"minecraft:redstone",
+        "count": 1
+      }
+    }
+}

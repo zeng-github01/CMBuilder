@@ -1,0 +1,37 @@
+{
+    "name": "compactmachines3:tunneltool",
+    "pattern": [
+      [
+        "",
+        "@ccc@",
+        "@cac@",
+        "@ccc@",
+        ""
+      ],
+      [
+        "",
+        "",
+        "@@b@@",
+        "",
+        ""
+      ],
+      [],
+      [],
+      []
+    ],
+    "catalyst": "minecraft:redstone",
+    "key": {
+      "a": {
+        "value": "compactmachines3:wallbreakable",
+        "count": 1
+      },
+      "b": {
+        "value":"minecraft:hopper",
+        "count": 1
+      },
+      "c": {
+        "value":"minecraft:redstone",
+        "count": 8
+      }
+    }
+  }
